@@ -1,5 +1,5 @@
 Hello, welcome to the MichMesh test page.
-Please drop a hello on the `F0FD`[MichMesh DG`lxmf://46cc6400a9bcb61c80020a21e95b99d1`]`f
+Please drop a hello on the MichMesh DG lxmf://46cc6400a9bcb61c80020a21e95b99d1
 
 ===  status ===
 `F0FD`[status page`:/page/status.mu`]`f
