@@ -1,4 +1,4 @@
-#!/home/meshtastic/venv/bin/python
+#!/home/ynos/venv/bin/python
 import subprocess, re
 
 nytimes = subprocess.getoutput('HOME=/home/meshtastic/ /usr/bin/elinks https://www.nytimes.com/timeswire | tail +11 |head -n -70')

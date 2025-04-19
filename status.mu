@@ -1,7 +1,7 @@
-#!/home/meshtastic/venv/bin/python
+#!/home/ynos/venv/bin/python
 import subprocess
 
-rnstatus = subprocess.getoutput('/home/meshtastic/venv/bin/rnstatus')
+rnstatus = subprocess.getoutput('/home/ynos/venv/bin/rnstatus')
 
 print(rnstatus)
 
