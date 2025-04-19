@@ -1,4 +1,5 @@
 Hello, welcome to the MichMesh test page.
+Please use our propagation server bb5920b34312ed57265dd173ec5171ad
 Please drop a hello on the MichMesh DG lxmf://46cc6400a9bcb61c80020a21e95b99d1
 
 ===  status ===
