@@ -1,8 +1,8 @@
-#!/home/ynos/venv/bin/python
+#!/home/prime/.local/bin
 import subprocess
 
-rnstatus = subprocess.getoutput('/home/ynos/venv/bin/rnstatus')
-lxmdstatus = subprocess.getoutput('/home/ynos/venv/bin/lxmd --status')
+rnstatus = subprocess.getoutput('rnstatus')
+lxmdstatus = subprocess.getoutput('lxmd --status')
 
 print("rnstatus:")
 print(rnstatus)
