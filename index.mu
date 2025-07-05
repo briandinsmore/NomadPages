@@ -1,6 +1,6 @@
-Hello, welcome to the MichMesh test page.
-Our propagation server lives at bb5920b34312ed57265dd173ec5171ad
-Feel free to drop a hello on the MichMesh DG lxmf://46cc6400a9bcb61c80020a21e95b99d1
+Hello, welcome to the RNS Faultline.dev test page.
+Our propagation server lives at TBD
+Feel free to drop a hello on the MichMesh DG lxmf://046aaf5f0f0a5b38a9609fe3a061773a
 
 ===  status ===
 `F0FD`[status page`:/page/status.mu`]`f
