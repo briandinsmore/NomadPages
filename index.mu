@@ -5,11 +5,7 @@ Feel free to drop a hello on the MichMesh DG lxmf://046aaf5f0f0a5b38a9609fe3a061
 ===  status ===
 `F0FD`[status page`:/page/status.mu`]`f
 
-===   news  ===
-`F0FD`[NY Times headlines`:/page/nytimes.mu`]`f
-`F0FD`[TimeF headlines`:/page/timef.mu`]`f
-
-=== RF info ===
+=== HAM RF info ===
 `F0FD`[FEMA freqs`:/page/fema-freqs.mu`]`f
 
 
