@@ -1,8 +1,8 @@
-#!/home/prime/.local/bin
+#!/usr/bin/python3
 import subprocess
 
-rnstatus = subprocess.getoutput('/usrlocal/bin/rnstatus')
-lxmdstatus = subprocess.getoutput('/usrlocal/bin/lxmd --status')
+rnstatus = subprocess.getoutput('/usr/local/bin/rnstatus')
+lxmdstatus = subprocess.getoutput('/usr/local/bin/lxmd --status')
 
 print("rnstatus:")
 print(rnstatus)
