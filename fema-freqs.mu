@@ -1,3 +1,14 @@
+Hello, welcome to the RNS Faultline.dev test page.  This is an active (ish) work in progress.
+
+Our propagation server lives at 0f57e368cd7ead982478f3640b8c7dc3
+Feel free to drop a hello on the MichMesh DG lxmf://046aaf5f0f0a5b38a9609fe3a061773a
+
+>
+-
+`c`!| `F2f0`_`[HOME`:/page/index.mu]`_`f `b| `F2f0`_`[STATUS`:/page/status.mu]`_`f | `F2f0`_`[FAQ`:/page/faq.mu]`_`f |`B2f0 `F220`_`[FEMA FREQS`:/page/fema-freqs.mu`]`_`f `b
+-
+`a 
+
 ==================================================
 FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA)
 
@@ -622,7 +633,5 @@ Roger
   7.8020 SIMPLEX
   7.8050 SIMPLEX
   7.9320 SIMPLEX
-
-
 
 SOURCE  https://nuke.fas.org/guide/usa/c3i/fema-frq.htm
