@@ -5,7 +5,7 @@ Feel free to drop a hello on the MichMesh DG lxmf://046aaf5f0f0a5b38a9609fe3a061
 
 >
 -
-`c`!| `F2f0`_`[HOME`:/page/index.mu]`_`f `b| `F2f0`_`[STATUS`:/page/status.mu]`_`f | `F2f0`_`[FAQ`:/page/faq.mu]`_`f |`B2f0 `F220`_`[FEMA FREQS`:/page/fema-freqs.mu`]`_`f `b
+`c`!| `F2f0`_`[HOME`:/page/index.mu]`_`f | `F2f0`_`[STATUS`:/page/status.mu]`_`f |`B2f0  `F220`_`[FAQ`:/page/faq.mu]`_`f`b |`F220`_`[FEMA FREQS`:/page/fema-freqs.mu`]`_`f 
 -
 `a 
 
