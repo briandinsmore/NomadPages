@@ -1,7 +1,7 @@
 Hello, welcome to the RNS Faultline.dev test page.  This is an active (ish) work in progress.
 
 Our propagation server lives at 0f57e368cd7ead982478f3640b8c7dc3
-Feel free to drop a hello on the MichMesh DG lxmf://046aaf5f0f0a5b38a9609fe3a061773a
+Feel free to drop a hello on the MichMesh DG `_`[lxmf://30a7737136f61f3b6e5c3ac336e72204]`_
 
 >
 -
@@ -9,7 +9,7 @@ Feel free to drop a hello on the MichMesh DG lxmf://046aaf5f0f0a5b38a9609fe3a061
 -
 `a
 
-
+TBD
 === Retipedia ===
 
-Last update 10PM 7/11/25
+Last update 10PM 7/28/25
